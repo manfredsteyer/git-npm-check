@@ -8,7 +8,7 @@ cd angular2-seed
 npm install
 npm start
 // ein wenig warten
-// Unter localhost:3000 sollte nun eine Demo-Anwendung zu finden sein
+// Unter http://localhost:3000 sollte nun eine Demo-Anwendung zu finden sein
 ```
 
 # Probleme
