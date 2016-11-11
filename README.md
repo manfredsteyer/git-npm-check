@@ -1,6 +1,6 @@
 # npm und git check
 
-Prüfen Sie, ob Sie per git und npm das Seed-Projekt des Angular-Teams herunterladen und ausführen können:
+Bitte prüfen Sie, ob Sie per git und npm das Seed-Projekt des Angular-Teams herunterladen und ausführen können:
 
 ```
 git clone https://github.com/angular/angular2-seed
